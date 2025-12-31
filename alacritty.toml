@@ -1,0 +1,27 @@
+[window]
+opacity = 0.7
+
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Dark"
+
+[font]
+normal = { family = "MesloLGS NF", style = "Bold" }
+
+size = 13.0
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_interval = 450
+
+[general]
+import = [
+]
+
+# [terminal.shell]
+# program="/bin/byobu"
+
+
