@@ -1,0 +1,15 @@
+background_opacity 0.8
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+blur_background yes
+
+font_family  "MesloLGS NF"
+
+scrollback_pager nvim +"source /home/jay/.config/kitty/vi-mode.lua"
+map alt+s show_scrollback
+
+#cursor_shape beam
+cursor_blink_interval 0.5
+#hide_window_decorations yes
